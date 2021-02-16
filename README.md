@@ -1,5 +1,5 @@
 ### I’m [@tabfyi](http://github.com/tabfyi).
-I run a small gaming community/network called [@funkygg](funky.gg) and have a interest in coding.
+I run a small gaming community/network called [@funkygg](https://funky.gg) and have a interest in coding.
 
 You can find my steam [here](http://steamcommunity.com/id/6722)
 
